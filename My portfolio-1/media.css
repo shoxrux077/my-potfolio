@@ -1,0 +1,125 @@
+/* media 1065px-1200 */
+
+@media (min-width:1065px) and (max-width:1200px) {
+  .nav-link{
+      font-size: 20px;
+  }
+  .header-text h1{
+      font-size:40px !important;
+  }
+  .header-text p{
+      font-size: 20px;
+      margin-top: 20px;
+  }
+  .date-item{
+      border: 1px solid red;
+      width: 33%;
+  }
+  .date-item h4{
+      font-size: 20px;
+  }
+  .text-1{
+      font-size: 16px;
+  }
+  .carousel-box h1{
+      font-size: 30px;
+  }
+  .carousel-box img{
+      height: 170px;
+  }
+  .h-1{
+      font-size: 30px;
+  }
+  .box-2 p{
+      font-size: 18px;
+  }
+  .h1-2{
+      font-size: 35px;
+      margin: 20px 0;
+  }
+  .card-effect{
+     text-align: center !important;
+  }
+  .user-card h3{
+      font-size: 20px;
+  }
+  .user-card img{
+      width: 50px;
+      height: 50px;
+  }
+  .block-header h1{
+    font-size: 35px;  
+  }
+  .block-header p{
+      font-size: 35px;
+  }
+  .block-header{
+      border: 1px solid red;
+      width: 90%;
+      margin: 0 auto;
+  }
+  .block-user{
+      border: 1px solid red;
+      width: 90%;
+  }
+}
+@media (min-width:850px) and (max-width:1064px) {
+
+}
+@media (min-width:769px) and (max-width:849px) {
+    .nav-link{
+        font-size: 16px;
+        border: 1px solid red;
+        margin: 8px;
+    }
+    .sing-up{
+        border: 1px solid red;
+        width: 33%;
+    }
+    .block{
+        border: 1px solid red;
+        padding: 10px;
+        width: 95% !important;
+    }
+    .header-text h1{
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .header-text p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .date{
+        width: 70%;
+    }
+    .service{
+
+    }
+    .date-item{
+        width: 33%;
+    }
+    .date-item h4{
+        font-size: 16px;
+    }
+    .text-1 h5{
+        font-size: 16px;
+    }
+    .carousel-box h1{
+        font-size: 20px;
+    }
+}
+@media (min-width:577) and (max-width:768px){
+    .navbar{
+        border: 1px solid red;
+        margin-top: 10px;
+    }
+    .nav-link{
+        font-size: 16px;
+        border: 1px solid rgb(29, 1, 75);
+        margin: 8px;
+    }
+    .sing-up{
+        border: 1px solid red;
+        width: 80%;
+    }
+}
